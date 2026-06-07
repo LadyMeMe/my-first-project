@@ -1,0 +1,8 @@
+name="Shamea"
+print(name)
+faviorite_food="oysters"
+print(faviorite_food)
+age=44
+print(age)
+user_input=("Shamea")
+print("Hello!" + "user_input")
