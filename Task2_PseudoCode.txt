@@ -1,0 +1,7 @@
+Coffee order 
+Ask the user What size coffee did she order
+will the coffee be hot or cold
+
+If the user choose the small size coffee, it will display the small prices
+if the user choose hot coffee, the cup will come hot and will need a cup sleeve 
+End 
