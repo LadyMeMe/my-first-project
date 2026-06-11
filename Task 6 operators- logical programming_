@@ -1,0 +1,54 @@
+# This is the comparision operators example with candy using Greater than, less than, equal to, etc.
+#example 1
+redcandy=20
+bluecandy=30
+print ("Red candy:", redcandy)
+print("Blue candy:", bluecandy)
+if redcandy < bluecandy:
+    print("is red candy < to blue candy")
+if redcandy > bluecandy:
+    print("is blue candy > red candy")
+if redcandy == bluecandy:
+    print("is red candy == blue candy")
+if redcandy!=bluecandy:
+    print("is red candy != blue candy")
+if redcandy<=bluecandy:
+    print("is red candy <= blue candy")
+if redcandy>=bluecandy:
+    print("is red candy >= blue candy")
+# End of the comparison operators example
+
+# Logical operators example 2, with friends and money
+# assign numeric values to represent dollars
+friend1 = 50
+friend2 = 30
+if friend1 > friend2:
+    print("Friend 1 has more money than Friend 2")
+if friend1 < friend2:
+    print("Friend 1 has less money than Friend 2")
+if friend1 == friend2:
+    print("Friend 1 and Friend 2 have the same amount of money")
+if friend1 != friend2:
+    print("Friend 1 and Friend 2 have different amounts of money")
+# End of the logical operators example  
+#Arithmetic operators example 3, with numbers
+Apples_eaten = 5
+Apples_left = 10
+print("Apples eaten:", Apples_eaten)
+print("Apples left:", Apples_left)
+print("Total apples:", Apples_eaten + Apples_left)
+print("Difference:", Apples_left - Apples_eaten)
+print("Product:", Apples_eaten * Apples_left)
+print("Quotient:", Apples_left / Apples_eaten)
+#end of the arithmetic operators example
+
+#Assignment operators example 4, with tacos variables
+tacos_eaten = 5
+tacos_left = 2  
+print("Tacos eaten:", tacos_eaten)
+print("Tacos left:", tacos_left)
+tacos_eaten += 2
+print("Tacos eaten after adding 2:", tacos_eaten)
+tacos_left -= 3
+print("Tacos left after subtracting 3:", tacos_left)
+#end of the assignment operators example
