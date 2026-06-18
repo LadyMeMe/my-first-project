@@ -1,5 +1,4 @@
 #In the project I will be prompt the user to enter a string and make each other letter into a uppercase. then every other word in lowercase.
-from _pyrepl.commands import end
 
 #===Example 1===
 '''sentence= "Hello Shamea"
